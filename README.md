@@ -1,4 +1,4 @@
-# EthVote.github.io
+# EthVote.github.io x Blockscout
 EthVote: A decentralized electronic voting system using blockchain which helps users to cast their votes using the web portal in an efficient and secure manner. 
 This DApp aims to revolutionize how voting works, by leveraging the power of Blockchain. The blockchain technology is an emerging solution to these concerns. This evolving technology is immutable i.e. after a vote is casted, it cannot be undone. It is decentralized and distributed which means that there’s no central authority over the voting system. 
 Due to aforementioned factors, it brings transparency in elections.
@@ -11,6 +11,7 @@ Due to aforementioned factors, it brings transparency in elections.
 - A voter can cast their vote only once. After which, the voter’s automatically logged out.
 - Same process continiues for many more votters irrespective of their voting wards.
 - Vote count for each candidate is displayed on the portal, next to the candidate.
+- explorer and api of Blockscout is used as integration
 
 ## Advantages
 - No Voter’s ID required as a user's validity (age: 18+) is determined using the Aadhaar
@@ -27,6 +28,9 @@ Due to aforementioned factors, it brings transparency in elections.
 3. Ganache
 4. Metamask
 5. Web3.js
+
+## Link to Blockscout
+https://www.blockscout.com/
 
 ## System UI 
 
