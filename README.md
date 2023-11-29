@@ -3,6 +3,9 @@ EthVote: A decentralized electronic voting system using blockchain which helps u
 This DApp aims to revolutionize how voting works, by leveraging the power of Blockchain. The blockchain technology is an emerging solution to these concerns. This evolving technology is immutable i.e. after a vote is casted, it cannot be undone. It is decentralized and distributed which means that there’s no central authority over the voting system. 
 Due to aforementioned factors, it brings transparency in elections.
 
+## LINK TO Blockscout
+https://www.blockscout.com/
+
 ## Working
 - The voter must first login to the dapp using their Aadhar number and OTP confirmation.
 - After authentication, the voter can now begin the process of voting.
